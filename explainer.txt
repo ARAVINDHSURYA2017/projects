@@ -1,0 +1,2 @@
+Whenever a user creates a new Case Study, Caselet, or Quiz, they should receive a notification. There are three types of notifications we will use: deep links, push notifications, and inbox notifications.
+
